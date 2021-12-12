@@ -3,10 +3,10 @@
   "scripts": [
     {
       "type": "sig",
-      "keyHash": "8cc1d0d0689d5661751367e6c74b12aed6f9226d0ccdd874fafc037a"
+      "keyHash": "05247453c89b60680ef60fba4fe4b01c9248e35d885cf5684c8e5333"
     },
     {
-      "slot": 80957707,
+      "slot": 80964893,
       "type": "before"
     }
   ]
